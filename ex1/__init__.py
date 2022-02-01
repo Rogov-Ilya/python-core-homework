@@ -7,4 +7,5 @@ def build_roles_tree(mapping):
 
     for categoryID in mapping['categoryIdsSorted']:
         print(categoryID)
-
+        print(mapping)
+    # Comment
