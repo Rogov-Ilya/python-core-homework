@@ -1,4 +1,4 @@
-[![Tests](https://github.com/Rogov-Ilya/python-core-homework/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/Rogov-Ilya/python-core-homework/actions/workflows/python-app.yml)
+[![Tests](https://github.com/Rogov-Ilya/python-core-homework/actions/workflows/python-app.yml/badge.svg)](https://github.com/Rogov-Ilya/python-core-homework/actions/workflows/python-app.yml)
 
 # Настройка Github репозитория
 
